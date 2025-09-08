@@ -4,5 +4,5 @@ pymongo[srv]
 uvloop
 aiohttp
 fastapi
-uvicorn
+uvicorn[standard] 
 python-dotenv
