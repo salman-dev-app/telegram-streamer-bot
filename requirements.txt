@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+pymongo[srv]
+uvloop
+aiohttp
+fastapi
+uvicorn
+python-dotenv
